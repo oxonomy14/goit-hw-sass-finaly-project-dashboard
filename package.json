@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/goit-sass-app-start/",
+    "build": "vite build --base=/goit-hw-sass-finaly-project-dashboard/",
     "preview": "vite preview",
     "watch": "npx vite build --watch"
   },
