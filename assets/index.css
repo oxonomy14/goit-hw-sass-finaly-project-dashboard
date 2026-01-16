@@ -223,6 +223,22 @@ summary {
   grid-template-areas: "welcome" "co-workers" "tasks" "reports";
 }
 
+.welcome {
+  grid-area: welcome;
+}
+
+.co-workers {
+  grid-area: co-workers;
+}
+
+.tasks {
+  grid-area: tasks;
+}
+
+.reports {
+  grid-area: reports;
+}
+
 @media only screen and (min-width: 768px) {
   .main {
     gap: 36px;
